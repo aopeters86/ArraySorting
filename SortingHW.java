@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-public class Sorting {
+public class SortingHW {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
