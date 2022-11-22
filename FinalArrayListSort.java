@@ -10,7 +10,7 @@ public class FinalArrayListSort {
 	 * 
 	 * built program off book and web research. 
 	 * 
-	 * ground it out with research
+	 * ground it out with research and asked google right questions!
 	 * 
 	 * 
 	 */
